@@ -84,3 +84,8 @@
 !*.elf
 !*.bmm
 !*.xmp
+########
+# Hardware Export File (.xsa)
+########
+!release
+!*.xsa
